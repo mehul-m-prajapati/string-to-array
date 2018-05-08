@@ -1,4 +1,6 @@
+/* include */
 #include <string.h>
+#include "str_to_arr.h"
 
 
 /* function definition */
